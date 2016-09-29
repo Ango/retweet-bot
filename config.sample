@@ -2,6 +2,10 @@
 search_query:#yourHashtag
 # Leave empty for all languages
 tweet_language:
+# Comment for retweets
+comment:
+# Max number of retweets, 0 = no limit
+retweets_limit:10
 
 # Create your app on http://apps.twitter.com
 [twitter]
